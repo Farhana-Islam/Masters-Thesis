@@ -1,0 +1,7 @@
+awswrangler
+polars
+python3
+scikit-learn
+category_encoders
+scipy
+
